@@ -7,19 +7,21 @@ nav {
   font-family: karla;
   padding-top: 30px;
   padding-left: 80px;
-  padding-right:20px;
+  padding-right:30px;
   padding-bottom: 10px;
+  background-color: white;
 
 }
 
 h1 {
-    color: #22313F;
+    color: #22313f;
     text-align: left;
     font-family: 'IBM Plex Mono', monospace;
-    padding-top: 30px;
+    padding-top: 100px;
     padding-right: 30px;
-    padding-bottom: 10px;
+    padding-bottom: 100px;
     padding-left: 80px;
+    background-color: #eeeeee;
 }
 
 h2 {
