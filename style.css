@@ -1,0 +1,79 @@
+body {
+    background-color: white;
+}
+nav {
+  color: #22313F;
+  text-align: left;
+  font-family: karla;
+  padding-top: 30px;
+  padding-left: 80px;
+  padding-right:20px;
+  padding-bottom: 10px;
+
+}
+
+h1 {
+    color: #22313F;
+    text-align: left;
+    font-family: 'IBM Plex Mono', monospace;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 80px;
+}
+
+h2 {
+    color: #22313F;
+    text-align: left;
+    font-family: 'IBM Plex Mono', monospace;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 80px;
+}
+
+h4 {
+  color: #22313F;
+  font-family: karla;
+  font-size: 14px;
+  padding-top: 10px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  padding-left: 80px;
+  line-height: 2;
+}
+
+p {
+    color: #22313F;
+    font-family: karla;
+    font-size: 14px;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+a:link {
+    color: #22313F;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #1abc9c;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #1abc9c;
+    background-color: transparent;
+    text-decoration: underline;
+    font-weight: bold;
+}
