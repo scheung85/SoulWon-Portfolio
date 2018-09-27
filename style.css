@@ -2,13 +2,6 @@
     background-color: white;
 }
 */
-
-@media only screen and (max-device-width: 480px) {
-    }
-div#header h1 {
-            font-size: 80%;
-      }
-
 nav {
   color: #263238;
   text-align: left;
@@ -25,13 +18,24 @@ nav {
 
 }
 
-h1 {
+.intro {
     color: #263238;
     text-align: left;
     font-family: 'IBM Plex Mono', monospace;
     padding-top: 10px;
     padding-right: 30px;
     padding-bottom: 10px;
+    padding-left: 30px;
+    /* background-color: #eeeeee; */
+}
+
+.title {
+    color: #263238;
+    text-align: left;
+    font-family: 'IBM Plex Mono', monospace;
+    padding-top: 5px;
+    padding-right: 30px;
+    padding-bottom: 5px;
     padding-left: 30px;
     /* background-color: #eeeeee; */
 }
@@ -103,14 +107,14 @@ body {
 	background-size: 400% 400%;
 }
 
-.casestudy{
+.casestudy {
     color: #263238;
     text-align: left;
-    font-size: 18px;
+    font-size: 24px;
     font-family: 'IBM Plex Mono', monospace;
-    padding-top: 10px;
+    padding-top: 5px;
     padding-right: 30px;
     padding-bottom: 30px;
-    padding-left: 20px;
+    padding-left: 80px;
     line-height: 2;
   }
