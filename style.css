@@ -2,6 +2,13 @@
     background-color: white;
 }
 */
+
+@media only screen and (max-device-width: 480px) {
+    }
+div#header h1 {
+            font-size: 80%;
+      }
+
 nav {
   color: #263238;
   text-align: left;
